@@ -1,8 +1,8 @@
-# 📊 Blinkit Sales Analysis — Data Analytics Project
+# Blinkit Sales Analysis — Data Analytics Project
 
 This repository contains an end-to-end Exploratory Data Analysis (EDA) performed on the Blinkit dataset using Python in Jupyter Notebook. The primary objective of this project is to uncover actionable insights related to sales performance, product characteristics, and outlet attributes, helping understand the factors that influence revenue across different categories.
 
-# 🗂️ Project Overview
+# Project Overview
 
 In this analysis, we explore how different features—such as Item Type, Item Fat Content, Outlet Size, Outlet Location, Item Visibility, and Item Weight—affect Sales and Customer Ratings.
 
@@ -18,7 +18,7 @@ The notebook includes:
 
 🔹 Key Business Insights & Findings
 
-# 📁 Dataset Description
+# Dataset Description
 
 The dataset includes 1,000+ retail product entries with the following key features:
 
@@ -45,7 +45,7 @@ Matplotlib & Seaborn — Data Visualization
 
 Jupyter Notebook
 
-# 🧹 Data Cleaning Steps
+# Data Cleaning Steps
 
 Handled missing values in Item Weight
 
@@ -55,7 +55,7 @@ Converted data types where necessary
 
 Removed outliers based on Item Visibility and Sales
 
-# 📈 Key Visualizations
+# Key Visualizations
 
 This analysis includes:
 
@@ -65,11 +65,11 @@ Category-wise sales comparison (Item Type, Outlet Size, Outlet Type)
 
 Outlet Performance Comparison
 
-# 🧠 Insights & Conclusions
+# Insights & Conclusions
 
 Some insights derived (you can adjust based on your notebook results):
 
-💡 Outlet Size and Outlet Type have a strong influence on sales. Medium-sized and Supermarket Type1 outlets perform better.
+* Outlet Size and Outlet Type have a strong influence on sales. Medium-sized and Supermarket Type1 outlets perform better.
 
 💡 Item Visibility is inversely correlated with Sales — heavily visible items sometimes sell less due to overexposure.
 
